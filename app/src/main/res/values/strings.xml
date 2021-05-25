@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AB Testing</string>
+    <string name="button_text">UPLOAD TEXT</string>
+    <string name="enter_text">ENTER TEXT.....</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="welcome">WELCOME!</string>
+</resources>
